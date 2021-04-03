@@ -6,7 +6,7 @@ I'm Ayush from India, and currently I'm collage student working on problem solvi
 
 Skills: C/C++
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently learning.  
 - 🌱 I’m currently learning Data structure & Algorithm 
 
 
