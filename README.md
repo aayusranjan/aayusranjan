@@ -16,9 +16,9 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirstChat&layout=compact)](https://github.com/aayusranjan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aayusranjan&layout=compact)](https://github.com/aayusranjan/github-readme-stats)
 
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayusranjan/)
-[![Frontend Mentor](https://img.shields.io/badge/frontend_mentor-ed2b49?style=for-the-badge&logo=frontend-mentor&logoColor=white)](https://www.frontendmentor.io/profile/KirstChat)
+[![Frontend Mentor](https://img.shields.io/badge/frontend_mentor-ed2b49?style=for-the-badge&logo=frontend-mentor&logoColor=white)](https://www.frontendmentor.io/profile/aayusranjan)
