@@ -9,7 +9,7 @@
 <h2>About Me</h2>
 
 <p>
-  I'm a frontend developer with experience in HTML, CSS, JavaScript, and Bootstrap. I enjoy creating user-friendly and responsive websites that provide a great user experience. In my free time, I like to learn new technologies and work on personal projects.
+  I'm a frontend developer with experience in HTML, CSS, JavaScript, and ReactJs. I enjoy creating user-friendly and responsive websites that provide a great user experience. In my free time, I like to learn new technologies and work on personal projects.
 </p>
 
 
